@@ -1,0 +1,8 @@
+{
+  "name": "Copy of LmekkiCall",
+  "description": "A modern chat application, similar to WhatsApp, powered by Gemini for intelligent conversations. Experience a sleek, user-friendly interface for seamless communication.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
